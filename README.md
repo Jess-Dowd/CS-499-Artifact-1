@@ -1,4 +1,4 @@
-# CS-499-Artifact-1# CS-499 Enhancement 1 – Software Engineering & Design
+# CS-499-Artifact-1 – Software Engineering & Design
 
 This repository contains Artifact One for the SNHU Computer Science capstone.
 
